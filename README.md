@@ -16,13 +16,30 @@ In this repository, we have performed the end to end Exploratory Data Analysis, 
 * Performed initial data cleaning like outlier removal and checked for basic `descriptive stats`. 
 * Applied `Regression` and `classificaiton` algorithms to predict the missing values. 
 * Perfomed `EDA` to better understand the data.
-* Applied `feature selection` and `feature sclaing`.
+* Applied `feature selection` and `feature scaling`.
 * Used `random forest regressor` and performed `hyperparameter tuning` to get R2 score of **0.89**.
 ------------------------------
 
 ## Why Used Plotly? 
 
 > It gives aesthetic looking interactive charts. But its not visible in GitHub so for that you have to run the jupyter notebook
+
+------------------------------- 
+
+## EDA 
+
+<p style = "display:flex"> 
+    <img src='EDA/newplot1.png' alt = 'header_gif' style = "max-width:400px;">
+    <img src='EDA/newplot2.png' alt = 'header_gif' style = "max-width:400px;">
+</p>
+<p style = "display:flex"> 
+    <img src='EDA/newplot3.png' alt = 'header_gif' style = "max-width:400px;">
+    <img src='EDA/newplot4.png' alt = 'header_gif' style = "max-width:400px;">
+</p>
+<p style = "display:flex"> 
+    <img src='EDA/newplot5.png' alt = 'header_gif' style = "max-width:400px;">
+    <img src='EDA/newplot6.png' alt = 'header_gif' style = "max-width:400px;">
+</p>
 
 ------------------------------- 
 
