@@ -43,52 +43,25 @@ In this repository, we have performed the end to end Exploratory Data Analysis, 
 
 ------------------------------- 
 
-<!-- ## Document Structure 
+## Document Structure 
 
 ```
-Personal Finance 
+HR Data Analysis 
 │
-|---- Data
-|   |-- ML_models
-|   |   |--
-|   |
-|   |-- preprocessed_data.csv
-|   |-- WA_Fn-UseC_-Telco-Customer-Churn.csv
+|---- EDA
+|   |-- *.png
+
+|---- image
+|   |-- *.png
 |
-|---- images
-|   |-- Churn-Prediction_Trim.gif
-|
-|---- notebooks 
-|   |-- models
-|   |   |-- analyseModel.py
-|   |   |-- hyperparameterTuning.py
-|   |   |-- *.ipynb
-|   |-- *.ipynb
-|
-|---- static 
-|   |-- images
-|   |   |-- favicon
-|   |   |   |-- *.png
-|
-|   |-- styles
-|   |   |-- layout.css
-|   
-|---- templates
-|   |   |-- index.html
-|   |   |-- layout.html
-|   |   |-- prediction.html
-|
-|---- .gitignore
-|---- app.py
-|---- LICENSE
-|---- Procfile
+|---- expected_ctc.csv
+|---- hr_data_analysis.ipynb
 |---- README.md
 |---- requirements.txt
-|---- runtime.txt 
 
 ```
 ---------------------
--->
+
 <p align="left">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
